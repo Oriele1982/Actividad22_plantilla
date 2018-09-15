@@ -1573,7 +1573,7 @@ nav div > ul > li {
 .post .post-tags a:hover {
   text-decoration: none;
 }
-.post .read-more .boton-rojo {
+.post .read-more {
   width: 100%;
   height: 12px;
   background: url("images/read-more-border.png") repeat-x center;
@@ -1589,7 +1589,7 @@ nav div > ul > li {
   transition: all 0.3s;
   font-size: 12px;
 }
-.post .read-more .boton-rojo span {
+.post .read-more span {
   background: #FF0000 ;
   padding: 0px 16px;
 }
